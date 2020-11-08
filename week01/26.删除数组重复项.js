@@ -1,5 +1,4 @@
 /**
- *leetcode.26题
  * @param {*} nums
  */
 var removeDuplicates = function (nums) {
